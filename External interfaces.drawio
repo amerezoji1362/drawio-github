@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T14:38:05.659Z" agent="5.0 (Macintosh)" etag="JsP7otPav5oo9SF5Ey7H" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T14:41:03.245Z" agent="5.0 (Macintosh)" etag="6iLzs5Mv6MUvE9doas2D" version="14.7.3" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="2c924340bb9dbf6c-2" value="Food producers" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="340" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-3" value="&lt;span&gt;Sub-node 2&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="650" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="2c924340bb9dbf6c-3" value="Health care" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="610" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-4" value="&lt;b&gt;ADD-ONS&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="260" width="120" height="120" as="geometry" />
@@ -31,8 +31,10 @@
         <mxCell id="2c924340bb9dbf6c-31" value="&lt;div&gt;Warmer &amp;amp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;cooler &lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-32" value="relation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2c924340bb9dbf6c-32" value="&lt;div&gt;Thermal&lt;/div&gt;&lt;div&gt; isolation &lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-3" edge="1">
+          <mxGeometry x="0.2001" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-33" value="Isolation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +89,20 @@
           <mxGeometry x="0.2822" y="-11" relative="1" as="geometry">
             <mxPoint x="559.6522645490679" y="285.59211506972883" as="sourcePoint" />
             <mxPoint x="400" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-3" value="&lt;div&gt;&lt;div&gt;Mechanical &lt;br&gt;&lt;/div&gt;&lt;div&gt;containment &lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-3">
+          <mxGeometry x="0.3925" y="14" relative="1" as="geometry">
+            <mxPoint x="559.6522645490679" y="285.59211506972883" as="sourcePoint" />
+            <mxPoint x="440.9895902142018" y="154.25165234201268" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-4" value="&lt;div&gt;Antibacterial &lt;br&gt;protection&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-3">
+          <mxGeometry x="0.5817" y="-19" relative="1" as="geometry">
+            <mxPoint x="619.5960379061314" y="273.2902539383167" as="sourcePoint" />
+            <mxPoint x="666.4465710789027" y="138.9661081481545" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
