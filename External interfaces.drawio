@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T15:05:01.839Z" agent="5.0 (Macintosh)" etag="0SfAaGnWJkY5lUJpcDwZ" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T15:09:15.492Z" agent="5.0 (Macintosh)" etag="9bbDRMprUAdN1uD_CM0M" version="14.7.3" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-6" value="Makers" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="810" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="830" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-31" value="&lt;div&gt;Warmer &amp;amp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;cooler &lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,8 +35,8 @@
             <mxPoint x="553.3281900445095" y="501.66843467219996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-52" value="&lt;span&gt;Sub-node 3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="780" y="390" width="120" height="80" as="geometry" />
+        <mxCell id="2c924340bb9dbf6c-52" value="Environmental activists " style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="850" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-61" value="&lt;div&gt;Mechanical &lt;br&gt;&lt;/div&gt;&lt;div&gt;containment &lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=1.025;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-2" edge="1">
           <mxGeometry x="0.2383" y="-12" relative="1" as="geometry">
@@ -79,16 +79,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MILclG34LUgPKMVoBRna-6" value="&lt;div&gt;&lt;div&gt;Dismantle&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.05;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2c924340bb9dbf6c-6">
-          <mxGeometry x="0.0383" y="2" relative="1" as="geometry">
+          <mxGeometry x="-0.0356" y="-4" relative="1" as="geometry">
             <mxPoint x="837.5735931288073" y="211.71572875253833" as="sourcePoint" />
-            <mxPoint x="640" y="303" as="targetPoint" />
+            <mxPoint x="650" y="303" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MILclG34LUgPKMVoBRna-7" value="&lt;div&gt;&lt;div&gt;Construction&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.308;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-6" target="2c924340bb9dbf6c-4">
-          <mxGeometry x="-0.5261" y="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.7164" y="4" relative="1" as="geometry">
             <mxPoint x="826" y="256" as="sourcePoint" />
             <mxPoint x="660" y="313" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-8" value="&lt;div&gt;&lt;div&gt;Customization&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.975;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2c924340bb9dbf6c-6" target="2c924340bb9dbf6c-4">
+          <mxGeometry x="0.0387" y="16" relative="1" as="geometry">
+            <mxPoint x="876.96" y="249.03999999999996" as="sourcePoint" />
+            <mxPoint x="660" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-9" value="Electrical power" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.95;exitY=0.775;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-52">
+          <mxGeometry x="0.2682" y="17" relative="1" as="geometry">
+            <mxPoint x="857.5735931288073" y="181.7157287525381" as="sourcePoint" />
+            <mxPoint x="870" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-10" value="&lt;div&gt;Environmental&lt;/div&gt;&lt;div&gt; regulations&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-52">
+          <mxGeometry x="0.4544" y="-3" relative="1" as="geometry">
+            <mxPoint x="654" y="363" as="sourcePoint" />
+            <mxPoint x="877.5735931288073" y="391.7157287525381" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-11" value="Environmental activists " style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-14" value="Environmental activists " style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="767.5699999999999" y="487" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-15" value="Electrical power" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" target="MILclG34LUgPKMVoBRna-14" parent="1" source="2c924340bb9dbf6c-4">
+          <mxGeometry x="0.2682" y="17" relative="1" as="geometry">
+            <mxPoint x="561.5699999999999" y="470" as="sourcePoint" />
+            <mxPoint x="787.5699999999999" y="507" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MILclG34LUgPKMVoBRna-16" value="&lt;div&gt;Equipment &lt;br&gt;&lt;/div&gt;&lt;div&gt;storage&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.675;exitY=1.008;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" target="MILclG34LUgPKMVoBRna-14" parent="1" source="2c924340bb9dbf6c-4">
+          <mxGeometry x="0.4544" y="-3" relative="1" as="geometry">
+            <mxPoint x="549.9964068711929" y="479.42640687119297" as="sourcePoint" />
+            <mxPoint x="795.1435931288072" y="508.7157287525381" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
