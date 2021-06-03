@@ -1,33 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T09:27:33.998Z" agent="5.0 (Macintosh)" etag="Uhk0NsR5B18nUlXfAiZM" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T09:30:37.752Z" agent="5.0 (Macintosh)" etag="_49jsucJykwPT2zp_gOD" version="14.7.4" type="github">
   <diagram id="tKitslfAB1BgI3c-y9Ij" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q2nyMCjTT9pvwlic67CU-1" value="physical requirement" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="877" y="20" width="280" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-1" source="q2nyMCjTT9pvwlic67CU-3" target="q2nyMCjTT9pvwlic67CU-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;div&gt;protect&amp;nbsp; the quality of food&lt;/div&gt;" treeRoot="1" id="q2nyMCjTT9pvwlic67CU-3">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-1">
-            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-4" value="Refrigerator" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-1">
-          <mxGeometry x="90" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-5" value="Functional tree" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="1100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-7" target="q2nyMCjTT9pvwlic67CU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-7" value="&amp;nbsp;Preserve the cold food" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-7" value="Technical function" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="550" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-8" value="&lt;div&gt;Cool down&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-8" value="Sub-technical function 1" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="380" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-7" target="q2nyMCjTT9pvwlic67CU-10">
@@ -35,7 +21,7 @@
             <mxPoint x="630" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-10" value="&lt;div&gt;Preserve the temperature&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-10" value="&lt;div&gt;Sub-technical function 2&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="820" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-8" target="q2nyMCjTT9pvwlic67CU-12">
@@ -43,7 +29,7 @@
             <mxPoint x="630" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-12" value="Heat rejection" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-12" value="Sub-technical function 1.2" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="380" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-8" target="q2nyMCjTT9pvwlic67CU-14">
@@ -51,7 +37,7 @@
             <mxPoint x="630" y="940" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-14" value="&lt;div&gt;Vapor constriction&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-14" value="Sub-technical function 1.1" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="90" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-8" target="q2nyMCjTT9pvwlic67CU-16">
@@ -59,7 +45,7 @@
             <mxPoint x="630" y="940" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-16" value="Evaporation" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-16" value="Sub-technical function 1.3" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="597" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-10" target="q2nyMCjTT9pvwlic67CU-18">
@@ -67,7 +53,7 @@
             <mxPoint x="630" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-18" value="&lt;div&gt;Cold air circulation&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-18" value="&lt;div&gt;Sub-technical function 2.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="750" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-10" target="q2nyMCjTT9pvwlic67CU-20">
@@ -75,7 +61,7 @@
             <mxPoint x="630" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-20" value="Ambient temperature sensing " style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-20" value="Sub-technical function 2.2" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="930" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-14" target="q2nyMCjTT9pvwlic67CU-22">
@@ -83,7 +69,7 @@
             <mxPoint x="780" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-22" value="&amp;nbsp;Gaz compressing" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-22" value="Sub-technical function 1.1.1" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="10" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-14" target="q2nyMCjTT9pvwlic67CU-24">
@@ -91,7 +77,7 @@
             <mxPoint x="780" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-24" value="&lt;div&gt;pressure controlling&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-24" value="Sub-technical function 1.1.2" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="180" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-12" target="q2nyMCjTT9pvwlic67CU-26">
@@ -99,7 +85,7 @@
             <mxPoint x="780" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-26" value="Condense" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-26" value="Sub-technical function 1.2.1" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="320" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-12" target="q2nyMCjTT9pvwlic67CU-28">
@@ -107,7 +93,7 @@
             <mxPoint x="780" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-28" value="Liquid flow controlling" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-28" value="Sub-technical function 1.2.2" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="460" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-16" target="q2nyMCjTT9pvwlic67CU-30">
@@ -115,7 +101,7 @@
             <mxPoint x="780" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-30" value="Evaporate" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-30" value="Sub-technical function 1.3.1" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="597" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-18" target="q2nyMCjTT9pvwlic67CU-32">
@@ -123,7 +109,7 @@
             <mxPoint x="1140" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-32" value="&lt;div&gt;To measure temperature&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-32" value="&lt;div&gt;Sub-technical function 2.1.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="750" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2nyMCjTT9pvwlic67CU-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="q2nyMCjTT9pvwlic67CU-5" source="q2nyMCjTT9pvwlic67CU-20" target="q2nyMCjTT9pvwlic67CU-34">
@@ -131,7 +117,7 @@
             <mxPoint x="1140" y="430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2nyMCjTT9pvwlic67CU-34" value="Control start-stop" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
+        <mxCell id="q2nyMCjTT9pvwlic67CU-34" value="&lt;div&gt;Sub-technical function 2.1.2&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="q2nyMCjTT9pvwlic67CU-5">
           <mxGeometry x="930" y="290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
