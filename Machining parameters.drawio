@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T08:46:47.203Z" agent="5.0 (Macintosh)" etag="WtodfWgnrsI30et8nPnn" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T08:48:34.270Z" agent="5.0 (Macintosh)" etag="vrqygxrP5BcJ4nzgaykw" version="14.9.0" type="github">
   <diagram id="Z1trSQCHoKJ7LO43XMHb" name="Page-1">
     <mxGraphModel dx="1815" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="LKuzUh9bCJo4vwnhLYDs-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LKuzUh9bCJo4vwnhLYDs-1">
           <mxGeometry width="748" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="LKuzUh9bCJo4vwnhLYDs-4" value="Type of operation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="LKuzUh9bCJo4vwnhLYDs-2">
+        <mxCell id="LKuzUh9bCJo4vwnhLYDs-4" value="Type of operations" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="LKuzUh9bCJo4vwnhLYDs-2">
           <mxGeometry width="90" height="53" as="geometry" />
         </mxCell>
         <mxCell id="LKuzUh9bCJo4vwnhLYDs-5" value="Tools" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="LKuzUh9bCJo4vwnhLYDs-2">
