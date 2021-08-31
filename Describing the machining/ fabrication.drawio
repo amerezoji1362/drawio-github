@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T08:19:47.349Z" agent="5.0 (Macintosh)" etag="90QUs0gX8DpUg6F6pkCL" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T08:19:55.341Z" agent="5.0 (Macintosh)" etag="5NW_wHY7-gCEzzrhpWaj" version="15.0.3" type="github">
   <diagram id="rNxtywayCwSzEVcmvXuK" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwRsfaoXdg2ToOk2P0fG-6" value="Quantity" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="vwRsfaoXdg2ToOk2P0fG-3" vertex="1">
-          <mxGeometry x="260" width="105" height="50" as="geometry" />
+          <mxGeometry x="260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwRsfaoXdg2ToOk2P0fG-7" value="Image" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="vwRsfaoXdg2ToOk2P0fG-3" vertex="1">
-          <mxGeometry x="365" width="205" height="50" as="geometry" />
+          <mxGeometry x="360" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HhnbDCIHl4mBhr2lJ0_L-1" value="Process of machining/ fabrication if it is necessary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="vwRsfaoXdg2ToOk2P0fG-3">
           <mxGeometry x="570" width="430" height="50" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="150" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vwRsfaoXdg2ToOk2P0fG-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="vwRsfaoXdg2ToOk2P0fG-11" vertex="1">
-          <mxGeometry x="260" width="105" height="120" as="geometry" />
+          <mxGeometry x="260" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vwRsfaoXdg2ToOk2P0fG-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="vwRsfaoXdg2ToOk2P0fG-11" vertex="1">
-          <mxGeometry x="365" width="205" height="120" as="geometry" />
+          <mxGeometry x="360" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HhnbDCIHl4mBhr2lJ0_L-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="vwRsfaoXdg2ToOk2P0fG-11">
           <mxGeometry x="570" width="430" height="120" as="geometry" />
