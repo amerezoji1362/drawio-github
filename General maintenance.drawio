@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T14:25:57.863Z" agent="5.0 (Macintosh)" etag="jWeJm8TJ0n7dCwNll8eh" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T14:51:09.374Z" agent="5.0 (Macintosh)" etag="_ZEdXoYmc81a4vWHWYWL" version="15.0.4" type="github">
   <diagram id="WLPjSBhgC_yvwsMOQwiV" name="Page-1">
     <mxGraphModel dx="1666" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,44 +10,47 @@
         <mxCell id="tNga97t6l0gy_Rezht0s-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-1">
           <mxGeometry width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-3" value="Environmental management" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-2">
+        <mxCell id="tNga97t6l0gy_Rezht0s-3" value="General maintenance" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-2">
           <mxGeometry width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="360" height="40" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-16" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-4">
-          <mxGeometry width="360" height="40" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-16">
+          <mxGeometry width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-6" value="How to protect against hot or cold weather conditions?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-5">
-          <mxGeometry width="360" height="40" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-18" value="Cleaning procedure" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-17">
+          <mxGeometry width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="360" height="180" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-19" value="schedule" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-17">
+          <mxGeometry x="260" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-7">
-          <mxGeometry width="360" height="180" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-29" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-8">
-          <mxGeometry width="360" height="180" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-29">
+          <mxGeometry width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="470" y="250" width="420" height="40" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-31" value="predetermined intervals " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-30">
+          <mxGeometry width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-10">
-          <mxGeometry width="420" height="40" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-32" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-12" value="Acceptable temprature range" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-11">
-          <mxGeometry width="420" height="40" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-33" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-32">
+          <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="420" height="180" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-34" value="prescribed criteria" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-33">
+          <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-13">
-          <mxGeometry width="420" height="180" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-38" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-14">
-          <mxGeometry width="420" height="180" as="geometry" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-38">
+          <mxGeometry width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-40" value="periodic test activities " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-39">
+          <mxGeometry width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
