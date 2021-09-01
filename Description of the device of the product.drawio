@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T09:57:38.524Z" agent="5.0 (Macintosh)" etag="z9K6YIfdnQrFJM7vZsBV" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T10:27:11.766Z" agent="5.0 (Macintosh)" etag="knmPipa-d1o0FiIZ7Ylf" version="15.0.3" type="github">
   <diagram id="OclsEK_XeE67PwOviO1x" name="Page-1">
     <mxGraphModel dx="1666" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="_bbLp0HfyhivJ3uQ8azR-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="_bbLp0HfyhivJ3uQ8azR-41">
           <mxGeometry width="330" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_bbLp0HfyhivJ3uQ8azR-47" value="Description of the device of the product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="_bbLp0HfyhivJ3uQ8azR-47" value="&lt;b&gt;Description of the device of the product&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-40" y="510" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
