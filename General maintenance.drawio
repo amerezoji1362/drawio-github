@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T14:25:45.141Z" agent="5.0 (Macintosh)" version="15.0.4" etag="M8fXymacfUw_Zbw9dVfa" type="github"><diagram id="WLPjSBhgC_yvwsMOQwiV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-01T14:25:57.863Z" agent="5.0 (Macintosh)" etag="jWeJm8TJ0n7dCwNll8eh" version="15.0.4" type="github">
+  <diagram id="WLPjSBhgC_yvwsMOQwiV" name="Page-1">
+    <mxGraphModel dx="1666" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tNga97t6l0gy_Rezht0s-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-1">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-3" value="Environmental management" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-2">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-4">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-6" value="How to protect against hot or cold weather conditions?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-5">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-7">
+          <mxGeometry width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-8">
+          <mxGeometry width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-10">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-12" value="Acceptable temprature range" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-11">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tNga97t6l0gy_Rezht0s-13">
+          <mxGeometry width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tNga97t6l0gy_Rezht0s-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="tNga97t6l0gy_Rezht0s-14">
+          <mxGeometry width="420" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
