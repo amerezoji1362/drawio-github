@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T12:03:45.709Z" agent="5.0 (Macintosh)" etag="bAYcwbfnt887FT9-m7TE" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T12:18:38.654Z" agent="5.0 (Macintosh)" etag="1oHZlAAS6-teJ4uAoRuc" version="15.0.6" type="github">
   <diagram id="4_eNWzwnBPdjGAX8QIh4" name="Page-1">
     <mxGraphModel dx="1666" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,25 +10,25 @@
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-1">
           <mxGeometry width="810" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-3" value="defective component name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-3" value="Defective component name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
           <mxGeometry width="162" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-4" value="How to monitor the performance of equipment performance?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-4" value="Describing the repairing sequences" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
           <mxGeometry x="162" width="162" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-5" value="How to detect a defective component?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-5" value="Rebuilding the defective component if it is necessary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
           <mxGeometry x="324" width="162" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-6" value="How to eliminate the fault?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-6" value="How to verify the repaired/ rebuild component?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
           <mxGeometry x="486" width="162" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-7" value="How to verify the fault elimination?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-7" value="Image of repaired/ rebuild component" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-2">
           <mxGeometry x="648" width="162" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-1">
           <mxGeometry y="70" width="810" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-9" value="defective component 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-8">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-9" value="Defective component 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-8">
           <mxGeometry width="162" height="87" as="geometry" />
         </mxCell>
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-8">
@@ -46,7 +46,7 @@
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-1">
           <mxGeometry y="157" width="810" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-15" value="defective component 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-14">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-15" value="Defective component 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-14">
           <mxGeometry width="162" height="88" as="geometry" />
         </mxCell>
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-14">
@@ -64,7 +64,7 @@
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-1">
           <mxGeometry y="245" width="810" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="FYJbt8zKLaMy1Ooj_55s-21" value="defective component 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-20">
+        <mxCell id="FYJbt8zKLaMy1Ooj_55s-21" value="Defective component 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-20">
           <mxGeometry width="162" height="87" as="geometry" />
         </mxCell>
         <mxCell id="FYJbt8zKLaMy1Ooj_55s-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="FYJbt8zKLaMy1Ooj_55s-20">
