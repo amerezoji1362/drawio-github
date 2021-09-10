@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T13:11:38.994Z" agent="5.0 (Macintosh)" etag="3d2wZBeWZvly9GZR0GiB" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T13:20:17.604Z" agent="5.0 (Macintosh)" etag="f-G3tpouMHGqWkYHZLcs" version="15.1.2" type="github">
   <diagram id="Z1trSQCHoKJ7LO43XMHb" name="Page-1">
     <mxGraphModel dx="2493" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,13 +133,13 @@
         <mxCell id="W6SQOugObV7dIc_7kULn-46" value="Drill" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
           <mxGeometry x="125" width="136" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-47" value="Holl" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-47" value="Depth of cut" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
           <mxGeometry x="261" width="114" height="53" as="geometry" />
         </mxCell>
         <mxCell id="W6SQOugObV7dIc_7kULn-48" value="mm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
           <mxGeometry x="375" width="102" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-49" value="D8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-49" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
           <mxGeometry x="477" width="104" height="53" as="geometry" />
         </mxCell>
         <mxCell id="W6SQOugObV7dIc_7kULn-50" value="Steel" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-44" vertex="1">
@@ -157,22 +157,22 @@
         <mxCell id="W6SQOugObV7dIc_7kULn-54" value="Milling" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry width="125" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-55" value="HSK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-55" value="HSK milling cutter " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry x="125" width="136" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-56" value="Cutting speed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry x="261" width="114" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-57" value="mm/s" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry x="375" width="102" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-58" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry x="477" width="104" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-59" value="Steel" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry x="581" width="125" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="W6SQOugObV7dIc_7kULn-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
+        <mxCell id="W6SQOugObV7dIc_7kULn-60" value="CAD file" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
           <mxGeometry x="706" width="134" height="53" as="geometry" />
         </mxCell>
         <mxCell id="W6SQOugObV7dIc_7kULn-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="W6SQOugObV7dIc_7kULn-53" vertex="1">
