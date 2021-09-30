@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:21:17.732Z" agent="5.0 (Macintosh)" etag="9N3UR35hyyEOIwUxyeXC" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T15:21:31.287Z" agent="5.0 (Macintosh)" etag="bK4igPuWUrW0vAInaoEW" version="15.3.8" type="github">
   <diagram id="PqBIYU05dPy_sP4pm3ZJ" name="Page-1">
-    <mxGraphModel dx="988" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,7 +343,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-159" value="U2: Technical contribution" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="510" y="925" width="170" height="90" as="geometry" />
+          <mxGeometry x="510" y="925" width="170" height="90" as="geometry">
+            <mxRectangle x="510" y="925" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-160" value="User: project owner" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-159">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
