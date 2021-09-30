@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T14:26:13.310Z" agent="5.0 (Macintosh)" etag="0TaQPE7GrQ7PUiplBCNe" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T14:30:51.958Z" agent="5.0 (Macintosh)" etag="ZQqLirG18prOFQriPDw9" version="15.3.8" type="github">
   <diagram id="PqBIYU05dPy_sP4pm3ZJ" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xGW7fza09lIFAX_tL9IV-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="700" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-37" value="&lt;div&gt;&lt;b&gt;P1: Idea generation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freedom of OSH: study&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A5CFA5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="130" height="90" as="geometry" />
+          <mxGeometry x="100" y="100" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-38" value="U1: Information research" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="170" height="90" as="geometry" />
@@ -15,6 +18,9 @@
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-40" value="Category: Idea generation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-38">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xGW7fza09lIFAX_tL9IV-44" target="xGW7fza09lIFAX_tL9IV-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-44" value="U2: Problem discoversy" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="170" height="90" as="geometry" />
@@ -30,6 +36,30 @@
             <mxPoint x="490" y="220" as="sourcePoint" />
             <mxPoint x="480" y="195" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-48" value="U3: Idea contribution" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="730" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-49" value="User: project owner" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-48">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-50" value="Category: Idea generation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-48">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-54" value="&lt;b&gt;User journeys (U) &lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-55" value="&lt;div&gt;&lt;b&gt;P1: Idea generation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freedom of OSH: study&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A5CFA5;" vertex="1" parent="1">
+          <mxGeometry x="930" y="100" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-56" value="Documentation building block" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-57" value="User: project owner" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-56">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-58" value="Category: Idea generation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-56">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
