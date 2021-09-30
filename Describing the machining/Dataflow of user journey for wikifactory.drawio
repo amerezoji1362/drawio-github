@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:18:11.095Z" agent="5.0 (Macintosh)" etag="Cjyl9K-yIhZPwvyp6R0k" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T15:21:17.732Z" agent="5.0 (Macintosh)" etag="9N3UR35hyyEOIwUxyeXC" version="15.3.8" type="github">
   <diagram id="PqBIYU05dPy_sP4pm3ZJ" name="Page-1">
     <mxGraphModel dx="988" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
         <mxCell id="xGW7fza09lIFAX_tL9IV-140" value="Category: product development" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-138">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xGW7fza09lIFAX_tL9IV-142" value="Documentation for concept&#xa; development" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=90;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="xGW7fza09lIFAX_tL9IV-142" value="Documentation for product &#xa;&#xa;development and prototyping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=90;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="640" width="190" height="240" as="geometry" />
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-143" value="1. Introduction" style="text;strokeColor=none;fillColor=#7EA6E0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-142">
@@ -327,6 +327,9 @@
         <mxCell id="xGW7fza09lIFAX_tL9IV-148" value="&lt;div&gt;&lt;b&gt;P5: Produce/ Replicate&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freedom of OSH: Make&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A5CFA5;" vertex="1" parent="1">
           <mxGeometry x="100" y="880" width="130" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xGW7fza09lIFAX_tL9IV-155" target="xGW7fza09lIFAX_tL9IV-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-155" value="U1: Benchmark" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="260" y="925" width="170" height="90" as="geometry" />
         </mxCell>
@@ -335,6 +338,39 @@
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-157" value="Category: Produce/ replicate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-155">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xGW7fza09lIFAX_tL9IV-159" target="xGW7fza09lIFAX_tL9IV-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-159" value="U2: Technical contribution" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="510" y="925" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-160" value="User: project owner" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-159">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-161" value="Category: Produce/ replicate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-159">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-163" value="U3: produce" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="760" y="925" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-164" value="User: project owner" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-163">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-165" value="Category: Produce/ replicate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-163">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-167" value="Documentation for producing " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=90;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="880" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-168" value="1. Introduction" style="text;strokeColor=none;fillColor=#7EA6E0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-167">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-169" value="4. Manufacturing" style="text;strokeColor=none;fillColor=#7EA6E0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-167">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGW7fza09lIFAX_tL9IV-170" value="5. Assembly" style="text;strokeColor=none;fillColor=#7EA6E0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xGW7fza09lIFAX_tL9IV-167">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
