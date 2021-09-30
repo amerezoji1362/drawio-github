@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T14:56:23.463Z" agent="5.0 (Macintosh)" etag="Vsj4R59nO0GPg15z1M96" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T14:57:27.820Z" agent="5.0 (Macintosh)" etag="ZF90vDynKVNEGicR2oqM" version="15.3.8" type="github">
   <diagram id="PqBIYU05dPy_sP4pm3ZJ" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="xGW7fza09lIFAX_tL9IV-92" value="&lt;b&gt;User journeys (U) &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="230" y="40" width="1000" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xGW7fza09lIFAX_tL9IV-93" value="&lt;b&gt;Documentation building block&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="xGW7fza09lIFAX_tL9IV-93" value="&lt;b&gt;Documentation building block&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="40" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xGW7fza09lIFAX_tL9IV-94" value="&lt;div&gt;&lt;b&gt;P3: concept development&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Freedom of OSH: study&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A5CFA5;" vertex="1" parent="1">
