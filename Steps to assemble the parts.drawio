@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T10:17:10.261Z" agent="5.0 (Macintosh)" etag="7CFCCx5m8Ik-rE5gFPwX" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T10:06:37.639Z" agent="5.0 (Macintosh)" etag="RaFb4rOHQuK6QWSl4LD3" version="16.2.2" type="github">
   <diagram id="uEdvBf2kqpspZAhSslnI" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="KlavnvulWfk_JPWq43i2-4" value="How to assemble and join the components at each step?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="KlavnvulWfk_JPWq43i2-2" vertex="1">
           <mxGeometry x="167" width="430" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="KlavnvulWfk_JPWq43i2-6" value="Image" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="KlavnvulWfk_JPWq43i2-2" vertex="1">
+        <mxCell id="KlavnvulWfk_JPWq43i2-6" value="Image1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="KlavnvulWfk_JPWq43i2-2" vertex="1">
           <mxGeometry x="597" width="380" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KlavnvulWfk_JPWq43i2-7" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KlavnvulWfk_JPWq43i2-1" vertex="1">
