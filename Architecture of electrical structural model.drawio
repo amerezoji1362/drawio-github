@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T13:14:31.822Z" agent="5.0 (Macintosh)" etag="UTD6v1erHcBDQIrr7kGB" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T13:14:44.223Z" agent="5.0 (Macintosh)" etag="xg2UaAY6wrztgTxFOIkQ" version="16.2.2" type="github">
   <diagram id="YKyQOGoXq14R0Jtugf9V" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
             <mxPoint x="-21634.600000000002" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1xe1RYbUUbZskDPg_gc-16" value="FMUv5/STM32F7 MCU&amp;amp;" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-16" value="FMUv5/STM32F7 MCU" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
           <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l1xe1RYbUUbZskDPg_gc-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-7" target="l1xe1RYbUUbZskDPg_gc-18" edge="1">
