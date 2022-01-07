@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:52:57.699Z" agent="5.0 (Macintosh)" etag="Uik8BEINnWwj78xlfI1K" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:53:06.636Z" agent="5.0 (Macintosh)" etag="VtNRVFAZvSk-LIasZsGM" version="16.2.2" type="github">
   <diagram id="nSUky03wP_geeJo8E0sn" name="Page-1">
     <mxGraphModel dx="2013" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="g2rxZFlYXXOEhxONH8Ov-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
           <mxGeometry width="1710" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="g2rxZFlYXXOEhxONH8Ov-7" value="Description of machine tools &amp;amp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-7" value="Description of machine tools " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
           <mxGeometry width="301" height="53" as="geometry" />
         </mxCell>
         <mxCell id="zCwbj56SeMaT4v7JTLCO-1" value="Image or link of video of machine tools" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
