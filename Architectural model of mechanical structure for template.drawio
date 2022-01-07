@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T14:05:57.259Z" agent="5.0 (Macintosh)" etag="GuIGoajXJHMzjkjb0RcE" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:28:20.880Z" agent="5.0 (Macintosh)" etag="hf-CYg7yb21L5iSVupVX" version="16.2.2" type="github">
   <diagram id="P9Uurger7CA0uye5NVtA" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             <mxPoint x="-2112" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avaKX5EeBfz0DVWXv85b-8" value="sub 1.1" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+        <mxCell id="avaKX5EeBfz0DVWXv85b-8" value="Sub-component 1.1 " style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
           <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avaKX5EeBfz0DVWXv85b-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-3" target="avaKX5EeBfz0DVWXv85b-10" edge="1">
