@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T10:34:36.989Z" agent="5.0 (Macintosh)" etag="qkJkFCe2djQCh56TX3nT" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T10:34:44.066Z" agent="5.0 (Macintosh)" etag="kb3nRM1wndDoimHb1yp7" version="16.2.2" type="github">
   <diagram id="WLPjSBhgC_yvwsMOQwiV" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="tNga97t6l0gy_Rezht0s-42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tNga97t6l0gy_Rezht0s-41" vertex="1">
           <mxGeometry width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tNga97t6l0gy_Rezht0s-43" value="Cleaning procedureg" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="tNga97t6l0gy_Rezht0s-42" vertex="1">
+        <mxCell id="tNga97t6l0gy_Rezht0s-43" value="Cleaning procedure" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="tNga97t6l0gy_Rezht0s-42" vertex="1">
           <mxGeometry width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNga97t6l0gy_Rezht0s-44" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
