@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T13:47:34.334Z" agent="5.0 (Macintosh)" etag="UO4QNefidTOjbYu6HCIL" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T09:05:38.877Z" agent="5.0 (Macintosh)" etag="5NHxzdcJzMSAY5kQ85VU" version="16.2.2" type="github">
   <diagram id="ffY1AQjXNi4-2BV3e61_" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="t8yqKCW--O7kcGJ0muue-3" value="External interfaces" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="260" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="t8yqKCW--O7kcGJ0muue-4" value="Stakeholder 3" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="t8yqKCW--O7kcGJ0muue-4" value="Stakeholder 3 " style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t8yqKCW--O7kcGJ0muue-5" value="Stakeholder 9" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
