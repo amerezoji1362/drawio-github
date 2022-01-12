@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:28:20.880Z" agent="5.0 (Macintosh)" etag="hf-CYg7yb21L5iSVupVX" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T12:45:01.664Z" agent="5.0 (Macintosh)" etag="48YWQiAXulgOKnasJ_MN" version="16.2.4" type="github">
   <diagram id="P9Uurger7CA0uye5NVtA" name="Page-1">
-    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="avaKX5EeBfz0DVWXv85b-1" value="Architectural structure " style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" parent="1" vertex="1">
           <mxGeometry x="310" y="240" width="870" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="avaKX5EeBfz0DVWXv85b-2" value="&lt;b&gt;Hradware&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+        <mxCell id="avaKX5EeBfz0DVWXv85b-2" value="&lt;b&gt;Hradware&lt;/b&gt; " style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
           <mxGeometry x="387.5" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avaKX5EeBfz0DVWXv85b-3" value="Component 1" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
